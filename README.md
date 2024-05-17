@@ -7,3 +7,10 @@ This project is a simple implementation of a neural network for classifying hand
     Required libraries: numpy, matplotlib,tensorflow,keras
     Jupyter Notebook 
 
+## Results
+   After training the neural network, I got a testing accuracy of 98%.
+
+## Acknowledgments
+  This project is inspired by the MNIST dataset, a benchmark in the field of machine learning.
+  Special thanks to the creators and maintainers of the MNIST dataset.
+   
